@@ -1,8 +1,10 @@
 # blueeweb
 Proyecto creado para plasmar el progreso del aprendisaje Vuejs, Vuex, Router-Vue, Bootstrap-vue.
 
-En el se coloca en practica tecnicas vuex para poder centralizar componentes (Frutas).
+En el se coloca en practica tecnicas vuex para poder centralizar componentes (Frutas). 
+
 Rutas dinamicas con Router-Vue (Fotos).
+
 Grind (Grid), Tarjetas (Cards), Formulario con validaciones; Selecteds; Radio; Checkboox con seleccion en array; 
 
 
