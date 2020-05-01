@@ -1,5 +1,5 @@
 # blueeweb
-Proyecto creado para plasmar el progreso del aprendisaje Vuejs, Vuex, Router-Vue, Bootstrap-vue.
+Proyecto creado para plasmar el progreso del aprendizaje Vuejs, Vuex, Router-Vue, Bootstrap-vue.
 
 -En el se coloca en practica tecnicas vuex para poder centralizar componentes (Frutas). 
 
