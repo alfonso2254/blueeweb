@@ -32,4 +32,4 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### ScreenShot
 
-![ScreenShot](https://raw.github.com/alfonso2254/blueeweb/blob/master/src/assets/screenshot/ss1.JPG)
+![ScreenShot](src/assets/screenshot/ss1.JPG)
