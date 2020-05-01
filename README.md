@@ -31,4 +31,4 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### ScreenShot
-![87aec5d2-7d89-458c-a703-b3686fe448a9](src/assets/screenshot/ss1.jpg)
+![87aec5d2-7d89-458c-a703-b3686fe448a9](@/assets/screenshot/ss1.jpg)
